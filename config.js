@@ -26,35 +26,35 @@ global.APIKeys = {
 
 //—————「 Set Nama Bot & Own 」—————//
 //terserah mau ubah atau nggak
-global.namabot = 'Akame'
-global.namaowner = 'GuaAbuzz'
+global.namabot = 'FHBotzMd'
+global.namaowner = 'FahriZx'
 
 //—————「 Setting Owner 」—————//
 //terserah mau ubah atau nggak
-global.owner = ['6289636827082']
-global.premium = ['6289636827082']
+global.owner = ['6287785175535']
+global.premium = ['62877851755350']
 
 //—————「 Setting Nomor Donasi 」—————//
 //ubah aja kalau ada yg gapunya kasih tanda -
-global.telkomsel = ['6282171978174']
-global.xl = ['-']
+global.telkomsel = ['-']
+global.xl = ['6287785175535']
 global.indosat = ['-']
-global.tri = ['6289636827082']
+global.tri = ['-']
 global.smartfren = ['-']
-global.gopay = ['6289636827082']
-global.dana = ['6289636827082']
+global.gopay = ['6287785175535']
+global.dana = ['6287785175535']
 global.ovo = ['-']
-global.saweria = ['https://saweria.co/GuaAbuzz']
+global.saweria = ['-']
 
 //—————「 Set Kebutuhan Button 」—————//
 //ubah aja kalau ada yang gapunya gsh di hps anggap aja credits :)
-global.github = 'https://github.com/Abuzzpoet'
-global.myweb = 'https://tiktok.com/@guaabuzz'
+global.github = 'https://github.com/fahrifaf'
+global.myweb = 'https://linktr.ee/fahrizx'
 
 //—————「 Set Wm 」—————//
 //terserah mau ubah atau nggak
-global.packname = 'GuaAbuzz'
-global.author = 'WhatsApp Bot'
+global.packname = 'Hemmfhr'
+global.author = '🗿😅👆'
 
 //—————「 Set Nama Session 」—————//
 //gausah di apa² ini!
@@ -74,13 +74,13 @@ global.mess = {
     success: '🤗Done, Oke Desu~',
     admin: 'Perintah Ini Hanya Bisa Digunakan Oleh Admin !',
     botAdmin: 'Perintah Ini Hanya Bisa Digunakan Ketika Bot Menjadi Admin !',
-    owner: 'Perintah Ini Hanya Bisa Digunakan Oleh Owner !',
+    owner: 'Perintah Ini Hanya Bisa Digunakan Oleh Fahri(owner) !',
     group: 'Perintah Ini Hanya Bisa Digunakan Di Group Chat !',
     private: 'Perintah Ini Hanya Bisa Digunakan Di Private Chat !',
     bot: 'Fitur Khusus Pengguna Nomor Bot !',
     wait: '⏳ Sedang Di Proses !',
     endLimit: 'Limit Harian Anda Telah Habis, Limit Akan Direset Setiap Jam 12 !',
-    error: 'Fitur Sedang Error !',
+    error: 'Error Fiturnya ya !',
 }
 
 //—————「 Set Limit 」—————//
